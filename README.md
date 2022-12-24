@@ -12,7 +12,7 @@ See [`demo.ipynb`](https://github.com/DavidFernandezBonet/ImageRecovery/blob/mas
 
 The other notebooks generate figures that we have in the paper:
 
-* [`Distortion plots.ipynb`](https://github.com/DavidFernandezBonet/ImageRecovery/blob/master/Code/Tutorials/Distortion%20plots%20.ipynb)
-* [`Computational Complexity.ipynb`](https://github.com/DavidFernandezBonet/ImageRecovery/blob/master/Code/Tutorials/Computational%20Complexity.ipynb)
+* [`Distortion plots`](https://github.com/DavidFernandezBonet/ImageRecovery/blob/master/Code/Tutorials/Distortion%20plots%20.ipynb)
+* [`Computational Complexity`](https://github.com/DavidFernandezBonet/ImageRecovery/blob/master/Code/Tutorials/Computational%20Complexity.ipynb)
 * [`Scalability and Accuracy`](https://github.com/DavidFernandezBonet/ImageRecovery/blob/master/Code/Tutorials/Scalability%20and%20Accuracy.ipynb)
 
