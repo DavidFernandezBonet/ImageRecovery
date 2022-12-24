@@ -1,6 +1,7 @@
 # Image Recovery
 
 <img src="image_recovery_scheme.png" width="500" height="500" />
+
 ![Image Recovery](recov_image_animated.gif)
 
 
