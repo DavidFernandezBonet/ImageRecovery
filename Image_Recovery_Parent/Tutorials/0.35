@@ -1,0 +1,4 @@
+Collecting llvmlite
+  Using cached llvmlite-0.39.1-cp38-cp38-win_amd64.whl (23.2 MB)
+Installing collected packages: llvmlite
+Successfully installed llvmlite-0.39.1
