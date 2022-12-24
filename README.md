@@ -1,7 +1,8 @@
 # Image Recovery
 
-![Image Recovery](recov_image_animated.gif)
 <img src="image_recovery_scheme.png" width="500" height="500" />
+![Image Recovery](recov_image_animated.gif)
+
 
 
 This is a companion repository to our [paper](https://www.biorxiv.org/content/10.1101/2022.09.29.510142v1) (Fernandez Bonet & Hoffecker 2023, Image recovery from unknown network mechanisms for DNA sequencing-based microscopy).
